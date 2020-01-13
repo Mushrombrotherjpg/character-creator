@@ -1,0 +1,15 @@
+nose opacity: 43/255
+
+eyes: 7-9 pixels from bottom of png
+5-7 pixels from top of face
+
+nose: 6 pixels from bottom of png
+4 pixels from top of face
+
+mouth: 3-5 pixels from bottom of png - opacity: 174/255
+1-3 pixels from bottom of face
+
+eyebrows 4-5 pixels from top of png - opacity: 174/255
+2-3 pixels from top of face
+
+wrinkle opacity: 29/255
